@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jorgeL3ao/jorgeL3ao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+* Olá me chamo jorge leão, atuamente sou aluno do 2 semestre curso de Matemática industrial na Universidade Federal do Ceará(UFC), e também sou aluno da Alura (cursos online) e estou em busca da primeira oportunidade como Cientista de Dados ou Analista BI.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
