@@ -14,13 +14,7 @@
   - 📫 Como chegar até mim **jorgesalgado1190@gmail.com**
 
   - ⚡ Sou estudante de Matemática Industrial na Universidade federal do Ceará 
-  <p align="left">
-<a href="https://linkedin .com/in/jorge leão" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icons/Social/linked-in-alt.svg" alt="jorge leão" height="30" width="40" /></a>
-</p>
   
-
-
-
 <p align="left">
 </p>
 
