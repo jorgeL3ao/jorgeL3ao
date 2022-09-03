@@ -8,12 +8,14 @@
    - 🔭 Desenvolvedor na Citinova **Arboriza**
 
 # Aqui esta alguma informações interessantes:
-
+   
+  - ⚡ Sou estudante de Matemática Industrial na Universidade federal do Ceará 
+  
   - 👨‍💻 Meus projetos [https://github.com/jorgeL3ao](https://github.com/jorgeL3ao)
 
   - 📫 Como chegar até mim **jorgesalgado1190@gmail.com**
 
-  - ⚡ Sou estudante de Matemática Industrial na Universidade federal do Ceará 
+ 
   
 <p align="left">
 </p>
