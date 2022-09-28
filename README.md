@@ -1,7 +1,8 @@
 <h1 align="center">Olá me chamo jorge👋</h1> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgel3ao&show_icons=true&locale=en&layout=compact" alt="jorgel3ao" /> </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgel3ao&show_icons=true&locale=en" alt="jorgel3ao" /> </p>
+<img height= "180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgel3ao&show_icons=true&locale=en&layout=compact" alt="jorgel3ao" /> 
+
+<img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jorgel3ao&show_icons=true&locale=en" alt="jorgel3ao" /> 
 
 
 # Cientista de dados, estudando Back-end java/ruby
