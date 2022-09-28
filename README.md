@@ -4,7 +4,7 @@
    <img height= "180em"  src="https://github-readme-stats.vercel.app/api?username=jorgel3ao&show_icons=true&locale=en" alt="jorgel3ao" /> 
 </div>
 
-# Cientista de dados, estudando Back-end java/ruby
+# Estudando Back-end php/ruby
    - 🔭 Desenvolvedor na Citinova **Arboriza**
 
 # Aqui esta alguma informações interessantes:
